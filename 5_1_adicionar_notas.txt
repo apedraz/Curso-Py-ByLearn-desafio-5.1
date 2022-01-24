@@ -1,0 +1,3 @@
+Desafio 5.1
+Criar uma lista de notas e adicionar entre 5 e 10 notas a seu critério.
+Por fim, printar todas as notas desta lista através de um laço for.
